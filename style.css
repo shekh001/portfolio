@@ -214,7 +214,7 @@ img{
 
 
 #one{
-    background-image: url(./image/one.png);
+    background-image: url(./one.png);
     background-size: cover;
     background-position: top center;
     
@@ -297,7 +297,7 @@ img{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(./image/1111.jpg);
+    background-image: url(./1111.jpg);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
@@ -704,4 +704,5 @@ img{
 		margin: 1.5%;
 	}
 }
+
 }
